@@ -28,9 +28,9 @@ U.A.G.R.M. | Materia: Programacion Grafica | Docente: Miguel Jesus Peinado | Rep
 
 ---
 
-## TAREAS - ANTERIORES:
-> [Archivos y Documentos - 2 2023](https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-Programacion_Grafica/tree/main/Tareas/Tareas%201%202023)<br>
-> [Archivos y Documentos - 1 2023]()<br>
+## TAREAS:
+
+> [Doc - Sistemas de representacion y Visualizacion grafica](https://1drv.ms/w/s!ArQLL-6st4rhiZIwRErQIPfc9y6EOA?e=SbMO8B)<br>
 
 ---
 
