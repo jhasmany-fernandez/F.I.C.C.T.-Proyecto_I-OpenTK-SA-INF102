@@ -1,6 +1,6 @@
 # F.I.C.C.T.-Proyecto_I-OpenTK-SA-INF102
 
-U.A.G.R.M. | Materia: Programacion Grafica | Docente: Miguel Jesus Peinado | Repositorio: Avance 1_2024 | Lenguaje: C# | IDE: Visual Studio Comunity
+U.A.G.R.M. | Materia: Programacion Grafica | Proyecto: OpenTK | Docente: Miguel Jesus Peinado | Repositorio: Avance 1_2024 | Lenguaje: C# | IDE: Visual Studio Comunity
 
 <p align="center"><img src="https://user-images.githubusercontent.com/36086876/146686931-7454e35d-a44b-422f-84c6-c3645d235ad3.png" width="162"></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/36086876/148548585-d4259cff-b909-48de-8d48-c41a7ba2cab3.png" width="292"></p>
